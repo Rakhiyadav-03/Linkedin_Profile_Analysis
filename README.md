@@ -1,5 +1,6 @@
-# Linkedin_Profile_AnalysisLinkedIn Profile Data Analysis using Power BI
+# LinkedIn Profile Data Analysis using Power BI
 # Steps Involved In the Project :-
+
 # 1) Data Extraction And Exploration 🔍
 - The data used in this project was extracted from LinkedIn itself. You Can also extract your profile data from LinkedIn by (LinkedIn - > Settings and Privacy -> Data Privacy -> Get a Copy of your Data)
 - After the data was extracted, I loaded it into my PowerBI. I came to know that all the different tables such as connections, social activities, and companies were present and had date columns but needed a common date table to change accordingly. So, to solve that we need to go to the next stage which is Data Transformation.
