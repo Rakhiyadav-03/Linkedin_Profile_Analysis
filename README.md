@@ -24,7 +24,7 @@
 - This is the last stage where I published my Dashboard from the PowerBI desktop to the PowerBI cloud.
 - 
 # Checkout and Interact with my Dashboard On: -
-https://www.novypro.com/profile_about/rakhi-yadav?Popup=memberProject&Data=1721583954478x457302257923014400
+https://www.novypro.com/profile_projects/rakhi-yadav
 
 # Insights
 - Total Number Of Connections across the years 2022,2023 and 2024 is 250
